@@ -89,7 +89,7 @@ minetest.register_craft({
 	output = 'liftup:liftup_block',
 	recipe = {
 		{'default:cobble', 'default:cobble', 'default:cobble'},
-		{'default:gold_ingot', 'group:diamond', 'default:gold_ingot'},
+		{'default:gold_ingot', 'default:diamond', 'default:gold_ingot'},
 		{'default:cobble', 'default:cobble', 'default:cobble'},
 	}
 })
